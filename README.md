@@ -9,4 +9,4 @@ Original game - [link](https://www.mixmods.com.br/2019/03/GTA-Wasteland.html)
 * **Kalcor - SA-MP 0.3.DL + KDFF TOOL**
 * **Fusez - Fusez's Map Editor Version 3**
 
-![alt text](https://im6.ezgif.com/tmp/ezgif-6-7529bf554adc.gif)
+![alt text](https://media.giphy.com/media/StIMSGVqzce04Bn89d/giphy.gif)
